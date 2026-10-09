@@ -1,2 +1,4 @@
 # assignment
-mariam-mohamed-ayoup -c49-assignment3
+ name mariam-mohamed-ayoup
+ cycle-c49
+ subject-assignment4
